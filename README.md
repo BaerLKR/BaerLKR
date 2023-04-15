@@ -7,5 +7,5 @@ my main interests are
 
 Programming:
 - trying to learn rust 🦀
-- little bit of bahs and JS 🐚
+- little bit of bash and JS 🐚
 - I enjoy writing CSS
