@@ -8,4 +8,4 @@ my main interests are
 Programming:
 - trying to learn rust 🦀
 - little bit of bahs and JS 🐚
-- Enjoy writing CSS
+- I enjoy writing CSS
