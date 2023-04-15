@@ -1,4 +1,4 @@
-Hello :)
+Hello 🍪
 
 my main interests are
 - Linux 🐧
