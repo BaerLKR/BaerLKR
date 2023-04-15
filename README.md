@@ -9,3 +9,5 @@ Programming:
 - trying to learn rust 🦀
 - little bit of bash and JS 🐚
 - I enjoy writing CSS
+
+<3
