@@ -11,3 +11,5 @@ my main interests are
   - I enjoy writing CSS
 
 ❤️
+
+![](github-metrics.svg)
