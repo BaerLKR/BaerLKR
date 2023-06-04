@@ -1,11 +1,11 @@
 Hello 🍪
 
 my main interests are
-- Linux 🐧
+- Linux 🐧 (I use NixOS btw)
 - Privacy 
 - encryption 🔑
 - programming:
-  - trying to learn rust 🦀
+  - trying to learn rust 🦀 and Nix ❄️
   - little bit of bash and JS 🐚
   - I enjoy writing CSS
 
